@@ -1,0 +1,10 @@
+
+**Customer Verification should be done by accessing the database and changing its active status**
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+**demo Paypal**
+Email   : sb-zquc027848061@personal.example.com
+Password: 29012020
